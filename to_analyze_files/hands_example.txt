@@ -1,0 +1,1376 @@
+PokerStars Hand #179189184063: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2017/12/06 19:59:51 CET [2017/12/06 13:59:51 ET]
+Table '2120185419 1' 9-max Seat #1 is the button
+Seat 1: To Robano (1500 in chips)
+Seat 2: HURONLOVE (1500 in chips)
+Seat 3: witpenmattie (1500 in chips)
+Seat 4: fmarc0n (1500 in chips)
+Seat 5: Sempre Nessa (1500 in chips)
+Seat 6: VALERY & Co (1500 in chips)
+Seat 7: fatboydslim (1500 in chips)
+Seat 8: BecksBeer123 (1500 in chips)
+Seat 9: pm9698 (1500 in chips)
+HURONLOVE: posts small blind 10
+witpenmattie: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pm9698 [Js Jd]
+fmarc0n: folds
+Sempre Nessa: raises 46 to 66
+VALERY & Co: calls 66
+fatboydslim has timed out while being disconnected
+fatboydslim: folds
+fatboydslim is sitting out
+BecksBeer123: folds
+pm9698: calls 66
+To Robano: folds
+HURONLOVE: folds
+witpenmattie: calls 46
+*** FLOP *** [8c 9c 3s]
+witpenmattie: checks
+fatboydslim has returned
+Sempre Nessa: checks
+VALERY & Co: bets 200
+pm9698: raises 1234 to 1434 and is all-in
+witpenmattie: folds
+Sempre Nessa: folds
+VALERY & Co: calls 1234 and is all-in
+*** TURN *** [8c 9c 3s] [Jc]
+*** RIVER *** [8c 9c 3s Jc] [6h]
+*** SHOW DOWN ***
+VALERY & Co: shows [Ts Tc] (a pair of Tens)
+pm9698: shows [Js Jd] (three of a kind, Jacks)
+pm9698 collected 3142 from pot
+VALERY & Co finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3142 | Rake 0
+Board [8c 9c 3s Jc 6h]
+Seat 1: To Robano (button) folded before Flop (didn't bet)
+Seat 2: HURONLOVE (small blind) folded before Flop
+Seat 3: witpenmattie (big blind) folded on the Flop
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded on the Flop
+Seat 6: VALERY & Co showed [Ts Tc] and lost with a pair of Tens
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 showed [Js Jd] and won (3142) with three of a kind, Jacks
+
+
+
+PokerStars Hand #179189225148: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2017/12/06 20:00:54 CET [2017/12/06 14:00:54 ET]
+Table '2120185419 1' 9-max Seat #2 is the button
+Seat 1: To Robano (1500 in chips)
+Seat 2: HURONLOVE (1490 in chips)
+Seat 3: witpenmattie (1434 in chips)
+Seat 4: fmarc0n (1500 in chips)
+Seat 5: Sempre Nessa (1434 in chips)
+Seat 7: fatboydslim (1500 in chips)
+Seat 8: BecksBeer123 (1500 in chips)
+Seat 9: pm9698 (3142 in chips)
+witpenmattie: posts small blind 10
+fmarc0n: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pm9698 [Ah As]
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: raises 35 to 55
+To Robano: folds
+HURONLOVE: calls 55
+witpenmattie: folds
+fmarc0n: folds
+*** FLOP *** [3d Kd Qc]
+pm9698: checks
+HURONLOVE: bets 140
+pm9698: raises 240 to 380
+HURONLOVE: calls 240
+*** TURN *** [3d Kd Qc] [4h]
+pm9698: checks
+HURONLOVE: bets 20
+pm9698: raises 2687 to 2707 and is all-in
+HURONLOVE: folds
+Uncalled bet (2687) returned to pm9698
+pm9698 collected 940 from pot
+pm9698: doesn't show hand
+*** SUMMARY ***
+Total pot 940 | Rake 0
+Board [3d Kd Qc 4h]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE (button) folded on the Turn
+Seat 3: witpenmattie (small blind) folded before Flop
+Seat 4: fmarc0n (big blind) folded before Flop
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 collected (940)
+
+
+
+PokerStars Hand #179189289314: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2017/12/06 20:02:22 CET [2017/12/06 14:02:22 ET]
+Table '2120185419 1' 9-max Seat #3 is the button
+Seat 1: To Robano (1500 in chips)
+Seat 2: HURONLOVE (1035 in chips)
+Seat 3: witpenmattie (1424 in chips)
+Seat 4: fmarc0n (1480 in chips)
+Seat 5: Sempre Nessa (1434 in chips)
+Seat 7: fatboydslim (1500 in chips)
+Seat 8: BecksBeer123 (1500 in chips)
+Seat 9: pm9698 (3627 in chips)
+fmarc0n: posts small blind 10
+Sempre Nessa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pm9698 [3c Th]
+fatboydslim: calls 20
+BecksBeer123: folds
+pm9698: folds
+To Robano: calls 20
+HURONLOVE: raises 90 to 110
+witpenmattie: folds
+fmarc0n: raises 280 to 390
+Sempre Nessa: folds
+fatboydslim: folds
+To Robano: folds
+HURONLOVE: calls 280
+*** FLOP *** [7h Js Ts]
+fmarc0n: bets 1090 and is all-in
+HURONLOVE: calls 645 and is all-in
+Uncalled bet (445) returned to fmarc0n
+*** TURN *** [7h Js Ts] [4d]
+*** RIVER *** [7h Js Ts 4d] [4h]
+*** SHOW DOWN ***
+fmarc0n: shows [Kh Kc] (two pair, Kings and Fours)
+HURONLOVE: shows [Jh Jd] (a full house, Jacks full of Fours)
+HURONLOVE collected 2130 from pot
+*** SUMMARY ***
+Total pot 2130 | Rake 0
+Board [7h Js Ts 4d 4h]
+Seat 1: To Robano folded before Flop
+Seat 2: HURONLOVE showed [Jh Jd] and won (2130) with a full house, Jacks full of Fours
+Seat 3: witpenmattie (button) folded before Flop (didn't bet)
+Seat 4: fmarc0n (small blind) showed [Kh Kc] and lost with two pair, Kings and Fours
+Seat 5: Sempre Nessa (big blind) folded before Flop
+Seat 7: fatboydslim folded before Flop
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189330041: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2017/12/06 20:03:15 CET [2017/12/06 14:03:15 ET]
+Table '2120185419 1' 9-max Seat #4 is the button
+Seat 1: To Robano (1480 in chips)
+Seat 2: HURONLOVE (2130 in chips)
+Seat 3: witpenmattie (1424 in chips)
+Seat 4: fmarc0n (445 in chips)
+Seat 5: Sempre Nessa (1414 in chips)
+Seat 7: fatboydslim (1480 in chips)
+Seat 8: BecksBeer123 (1500 in chips)
+Seat 9: pm9698 (3627 in chips)
+Sempre Nessa: posts small blind 10
+fatboydslim: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pm9698 [Td Qc]
+BecksBeer123: raises 20 to 40
+pm9698: folds
+To Robano: folds
+HURONLOVE: folds
+witpenmattie: calls 40
+fmarc0n: calls 40
+Sempre Nessa: folds
+fatboydslim: calls 20
+*** FLOP *** [7h 6c 2s]
+fatboydslim: checks
+BecksBeer123: checks
+witpenmattie: checks
+fmarc0n: checks
+*** TURN *** [7h 6c 2s] [3c]
+fatboydslim: checks
+BecksBeer123: checks
+witpenmattie: checks
+fmarc0n: checks
+*** RIVER *** [7h 6c 2s 3c] [Ts]
+fatboydslim is connected
+fatboydslim is disconnected
+fatboydslim is connected
+fatboydslim: checks
+BecksBeer123: checks
+witpenmattie: checks
+fmarc0n: checks
+*** SHOW DOWN ***
+fatboydslim: shows [5s 2c] (a pair of Deuces)
+BecksBeer123: mucks hand
+witpenmattie: mucks hand
+fmarc0n: mucks hand
+fatboydslim collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0
+Board [7h 6c 2s 3c Ts]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE folded before Flop (didn't bet)
+Seat 3: witpenmattie mucked [Jc Kd]
+Seat 4: fmarc0n (button) mucked [Jd Ks]
+Seat 5: Sempre Nessa (small blind) folded before Flop
+Seat 7: fatboydslim (big blind) showed [5s 2c] and won (170) with a pair of Deuces
+Seat 8: BecksBeer123 mucked [Kh Ad]
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189425059: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2017/12/06 20:05:17 CET [2017/12/06 14:05:17 ET]
+Table '2120185419 1' 9-max Seat #5 is the button
+Seat 1: To Robano (1480 in chips)
+Seat 2: HURONLOVE (2130 in chips)
+Seat 3: witpenmattie (1384 in chips)
+Seat 4: fmarc0n (405 in chips)
+Seat 5: Sempre Nessa (1404 in chips)
+Seat 7: fatboydslim (1610 in chips)
+Seat 8: BecksBeer123 (1460 in chips)
+Seat 9: pm9698 (3627 in chips)
+fatboydslim: posts small blind 15
+BecksBeer123: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pm9698 [5c 3c]
+pm9698: folds
+To Robano: folds
+HURONLOVE: folds
+witpenmattie: calls 30
+fmarc0n: calls 30
+Sempre Nessa: folds
+fatboydslim: calls 15
+BecksBeer123: checks
+*** FLOP *** [6s 9d Js]
+fatboydslim: bets 60
+BecksBeer123: calls 60
+witpenmattie: folds
+fmarc0n: folds
+*** TURN *** [6s 9d Js] [7d]
+fatboydslim: checks
+BecksBeer123: checks
+*** RIVER *** [6s 9d Js 7d] [4d]
+fatboydslim: checks
+BecksBeer123: bets 90
+fatboydslim: folds
+Uncalled bet (90) returned to BecksBeer123
+BecksBeer123 collected 240 from pot
+BecksBeer123: doesn't show hand
+*** SUMMARY ***
+Total pot 240 | Rake 0
+Board [6s 9d Js 7d 4d]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE folded before Flop (didn't bet)
+Seat 3: witpenmattie folded on the Flop
+Seat 4: fmarc0n folded on the Flop
+Seat 5: Sempre Nessa (button) folded before Flop (didn't bet)
+Seat 7: fatboydslim (small blind) folded on the River
+Seat 8: BecksBeer123 (big blind) collected (240)
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189474041: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2017/12/06 20:06:19 CET [2017/12/06 14:06:19 ET]
+Table '2120185419 1' 9-max Seat #7 is the button
+Seat 1: To Robano (1480 in chips)
+Seat 2: HURONLOVE (2130 in chips)
+Seat 3: witpenmattie (1354 in chips)
+Seat 4: fmarc0n (375 in chips)
+Seat 5: Sempre Nessa (1404 in chips)
+Seat 7: fatboydslim (1520 in chips)
+Seat 8: BecksBeer123 (1610 in chips)
+Seat 9: pm9698 (3627 in chips)
+BecksBeer123: posts small blind 15
+pm9698: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pm9698 [Qd Ks]
+To Robano: folds
+HURONLOVE: raises 2100 to 2130 and is all-in
+witpenmattie: folds
+fmarc0n: folds
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: folds
+Uncalled bet (2100) returned to HURONLOVE
+HURONLOVE collected 75 from pot
+HURONLOVE: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE collected (75)
+Seat 3: witpenmattie folded before Flop (didn't bet)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim (button) folded before Flop (didn't bet)
+Seat 8: BecksBeer123 (small blind) folded before Flop
+Seat 9: pm9698 (big blind) folded before Flop
+
+
+
+PokerStars Hand #179189507134: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2017/12/06 20:07:01 CET [2017/12/06 14:07:01 ET]
+Table '2120185419 1' 9-max Seat #8 is the button
+Seat 1: To Robano (1480 in chips)
+Seat 2: HURONLOVE (2175 in chips)
+Seat 3: witpenmattie (1354 in chips)
+Seat 4: fmarc0n (375 in chips)
+Seat 5: Sempre Nessa (1404 in chips)
+Seat 7: fatboydslim (1520 in chips)
+Seat 8: BecksBeer123 (1595 in chips)
+Seat 9: pm9698 (3597 in chips)
+pm9698: posts small blind 15
+To Robano: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pm9698 [Jc 5h]
+HURONLOVE: folds
+witpenmattie: folds
+fmarc0n: folds
+Sempre Nessa: calls 30
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: folds
+To Robano: checks
+*** FLOP *** [7d 7s Qc]
+To Robano: checks
+Sempre Nessa: bets 38
+To Robano: folds
+Uncalled bet (38) returned to Sempre Nessa
+Sempre Nessa collected 75 from pot
+Sempre Nessa: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Board [7d 7s Qc]
+Seat 1: To Robano (big blind) folded on the Flop
+Seat 2: HURONLOVE folded before Flop (didn't bet)
+Seat 3: witpenmattie folded before Flop (didn't bet)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa collected (75)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 (button) folded before Flop (didn't bet)
+Seat 9: pm9698 (small blind) folded before Flop
+
+
+
+PokerStars Hand #179189528929: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2017/12/06 20:07:29 CET [2017/12/06 14:07:29 ET]
+Table '2120185419 1' 9-max Seat #9 is the button
+Seat 1: To Robano (1450 in chips)
+Seat 2: HURONLOVE (2175 in chips)
+Seat 3: witpenmattie (1354 in chips)
+Seat 4: fmarc0n (375 in chips)
+Seat 5: Sempre Nessa (1449 in chips)
+Seat 7: fatboydslim (1520 in chips)
+Seat 8: BecksBeer123 (1595 in chips)
+Seat 9: pm9698 (3582 in chips)
+To Robano: posts small blind 15
+HURONLOVE: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pm9698 [9d Tc]
+witpenmattie: folds
+fmarc0n: folds
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: calls 30
+pm9698: calls 30
+To Robano: folds
+HURONLOVE: checks
+*** FLOP *** [8c 8s 9c]
+HURONLOVE: bets 90
+BecksBeer123: calls 90
+pm9698: calls 90
+*** TURN *** [8c 8s 9c] [Jd]
+HURONLOVE: checks
+BecksBeer123: bets 60
+pm9698: calls 60
+HURONLOVE: calls 60
+*** RIVER *** [8c 8s 9c Jd] [Qc]
+HURONLOVE: bets 30
+BecksBeer123: raises 120 to 150
+pm9698: calls 150
+HURONLOVE: calls 120
+*** SHOW DOWN ***
+BecksBeer123: shows [Qh 9h] (two pair, Queens and Nines)
+pm9698: shows [9d Tc] (a straight, Eight to Queen)
+HURONLOVE: mucks hand
+pm9698 collected 1005 from pot
+To Robano is disconnected
+*** SUMMARY ***
+Total pot 1005 | Rake 0
+Board [8c 8s 9c Jd Qc]
+Seat 1: To Robano (small blind) folded before Flop
+Seat 2: HURONLOVE (big blind) mucked [7h Jc]
+Seat 3: witpenmattie folded before Flop (didn't bet)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 showed [Qh 9h] and lost with two pair, Queens and Nines
+Seat 9: pm9698 (button) showed [9d Tc] and won (1005) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #179189569896: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2017/12/06 20:08:21 CET [2017/12/06 14:08:21 ET]
+Table '2120185419 1' 9-max Seat #1 is the button
+Seat 1: To Robano (1435 in chips)
+Seat 2: HURONLOVE (1845 in chips)
+Seat 3: witpenmattie (1354 in chips)
+Seat 4: fmarc0n (375 in chips)
+Seat 5: Sempre Nessa (1449 in chips)
+Seat 7: fatboydslim (1520 in chips)
+Seat 8: BecksBeer123 (1265 in chips)
+Seat 9: pm9698 (4257 in chips)
+HURONLOVE: posts small blind 15
+witpenmattie: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pm9698 [7c Kh]
+fmarc0n: folds
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: calls 30
+pm9698: folds
+To Robano is connected
+To Robano is disconnected
+To Robano is connected
+To Robano is disconnected
+To Robano is connected
+To Robano: folds
+HURONLOVE: folds
+witpenmattie: checks
+*** FLOP *** [5d 5s 9h]
+witpenmattie: bets 30
+BecksBeer123: folds
+Uncalled bet (30) returned to witpenmattie
+witpenmattie collected 75 from pot
+witpenmattie: doesn't show hand
+*** SUMMARY ***
+Total pot 75 | Rake 0
+Board [5d 5s 9h]
+Seat 1: To Robano (button) folded before Flop (didn't bet)
+Seat 2: HURONLOVE (small blind) folded before Flop
+Seat 3: witpenmattie (big blind) collected (75)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded on the Flop
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189614389: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2017/12/06 20:09:18 CET [2017/12/06 14:09:18 ET]
+Table '2120185419 1' 9-max Seat #2 is the button
+Seat 1: To Robano (1435 in chips)
+Seat 2: HURONLOVE (1830 in chips)
+Seat 3: witpenmattie (1399 in chips)
+Seat 4: fmarc0n (375 in chips)
+Seat 5: Sempre Nessa (1449 in chips)
+Seat 7: fatboydslim (1520 in chips)
+Seat 8: BecksBeer123 (1235 in chips)
+Seat 9: pm9698 (4257 in chips)
+witpenmattie: posts small blind 15
+fmarc0n: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pm9698 [Kh 8s]
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: folds
+To Robano: folds
+HURONLOVE: calls 30
+witpenmattie: calls 15
+fmarc0n: checks
+*** FLOP *** [Th 9d 8h]
+witpenmattie: bets 30
+fmarc0n: raises 150 to 180
+HURONLOVE: calls 180
+witpenmattie: calls 150
+*** TURN *** [Th 9d 8h] [2d]
+witpenmattie: checks
+fmarc0n: bets 165 and is all-in
+HURONLOVE: calls 165
+witpenmattie: calls 165
+*** RIVER *** [Th 9d 8h 2d] [7s]
+witpenmattie: checks
+HURONLOVE: checks
+*** SHOW DOWN ***
+witpenmattie: shows [9h Td] (two pair, Tens and Nines)
+fmarc0n: shows [Jd 7h] (a straight, Seven to Jack)
+HURONLOVE: shows [Js 9c] (a straight, Seven to Jack)
+fmarc0n collected 563 from pot
+HURONLOVE collected 562 from pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0
+Board [Th 9d 8h 2d 7s]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE (button) showed [Js 9c] and won (562) with a straight, Seven to Jack
+Seat 3: witpenmattie (small blind) showed [9h Td] and lost with two pair, Tens and Nines
+Seat 4: fmarc0n (big blind) showed [Jd 7h] and won (563) with a straight, Seven to Jack
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189674300: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2017/12/06 20:10:34 CET [2017/12/06 14:10:34 ET]
+Table '2120185419 1' 9-max Seat #3 is the button
+Seat 1: To Robano (1435 in chips)
+Seat 2: HURONLOVE (2017 in chips)
+Seat 3: witpenmattie (1024 in chips)
+Seat 4: fmarc0n (563 in chips)
+Seat 5: Sempre Nessa (1449 in chips)
+Seat 7: fatboydslim (1520 in chips)
+Seat 8: BecksBeer123 (1235 in chips)
+Seat 9: pm9698 (4257 in chips)
+fmarc0n: posts small blind 25
+Sempre Nessa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pm9698 [7c 4c]
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: folds
+To Robano: folds
+HURONLOVE: raises 1967 to 2017 and is all-in
+witpenmattie: folds
+fmarc0n: folds
+Sempre Nessa: folds
+Uncalled bet (1967) returned to HURONLOVE
+HURONLOVE collected 125 from pot
+HURONLOVE: doesn't show hand
+*** SUMMARY ***
+Total pot 125 | Rake 0
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE collected (125)
+Seat 3: witpenmattie (button) folded before Flop (didn't bet)
+Seat 4: fmarc0n (small blind) folded before Flop
+Seat 5: Sempre Nessa (big blind) folded before Flop
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189692309: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2017/12/06 20:10:57 CET [2017/12/06 14:10:57 ET]
+Table '2120185419 1' 9-max Seat #4 is the button
+Seat 1: To Robano (1435 in chips)
+Seat 2: HURONLOVE (2092 in chips)
+Seat 3: witpenmattie (1024 in chips)
+Seat 4: fmarc0n (538 in chips)
+Seat 5: Sempre Nessa (1399 in chips)
+Seat 7: fatboydslim (1520 in chips)
+Seat 8: BecksBeer123 (1235 in chips)
+Seat 9: pm9698 (4257 in chips)
+Sempre Nessa: posts small blind 25
+fatboydslim: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pm9698 [8s 3h]
+BecksBeer123 has timed out
+BecksBeer123: folds
+BecksBeer123 is sitting out
+BecksBeer123 has returned
+pm9698: folds
+To Robano: folds
+HURONLOVE: raises 50 to 100
+witpenmattie: calls 100
+fmarc0n: folds
+Sempre Nessa: folds
+fatboydslim: folds
+*** FLOP *** [Kc Ks Ad]
+HURONLOVE has timed out
+HURONLOVE: checks
+witpenmattie: checks
+*** TURN *** [Kc Ks Ad] [9h]
+HURONLOVE: checks
+witpenmattie: checks
+*** RIVER *** [Kc Ks Ad 9h] [7d]
+HURONLOVE: checks
+witpenmattie: checks
+*** SHOW DOWN ***
+HURONLOVE: shows [Qd Qs] (two pair, Kings and Queens)
+witpenmattie: shows [As 7h] (two pair, Aces and Kings)
+witpenmattie collected 275 from pot
+*** SUMMARY ***
+Total pot 275 | Rake 0
+Board [Kc Ks Ad 9h 7d]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE showed [Qd Qs] and lost with two pair, Kings and Queens
+Seat 3: witpenmattie showed [As 7h] and won (275) with two pair, Aces and Kings
+Seat 4: fmarc0n (button) folded before Flop (didn't bet)
+Seat 5: Sempre Nessa (small blind) folded before Flop
+Seat 7: fatboydslim (big blind) folded before Flop
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189779620: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2017/12/06 20:12:46 CET [2017/12/06 14:12:46 ET]
+Table '2120185419 1' 9-max Seat #5 is the button
+Seat 1: To Robano (1435 in chips)
+Seat 2: HURONLOVE (1992 in chips)
+Seat 3: witpenmattie (1199 in chips)
+Seat 4: fmarc0n (538 in chips)
+Seat 5: Sempre Nessa (1374 in chips)
+Seat 7: fatboydslim (1470 in chips)
+Seat 8: BecksBeer123 (1235 in chips)
+Seat 9: pm9698 (4257 in chips)
+fatboydslim: posts small blind 25
+BecksBeer123: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pm9698 [Ks 2d]
+pm9698: folds
+To Robano: folds
+HURONLOVE: folds
+witpenmattie: calls 50
+fmarc0n: folds
+Sempre Nessa: folds
+fatboydslim: calls 25
+BecksBeer123: checks
+*** FLOP *** [3c Jc 8h]
+fatboydslim: checks
+BecksBeer123: checks
+witpenmattie: bets 50
+fatboydslim: folds
+BecksBeer123: folds
+Uncalled bet (50) returned to witpenmattie
+witpenmattie collected 150 from pot
+witpenmattie: doesn't show hand
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Board [3c Jc 8h]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE folded before Flop (didn't bet)
+Seat 3: witpenmattie collected (150)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa (button) folded before Flop (didn't bet)
+Seat 7: fatboydslim (small blind) folded on the Flop
+Seat 8: BecksBeer123 (big blind) folded on the Flop
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189824785: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2017/12/06 20:13:43 CET [2017/12/06 14:13:43 ET]
+Table '2120185419 1' 9-max Seat #7 is the button
+Seat 1: To Robano (1435 in chips)
+Seat 2: HURONLOVE (1992 in chips)
+Seat 3: witpenmattie (1299 in chips)
+Seat 4: fmarc0n (538 in chips)
+Seat 5: Sempre Nessa (1374 in chips)
+Seat 7: fatboydslim (1420 in chips)
+Seat 8: BecksBeer123 (1185 in chips)
+Seat 9: pm9698 (4257 in chips)
+BecksBeer123: posts small blind 25
+pm9698: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pm9698 [Ks Kd]
+To Robano: folds
+HURONLOVE: calls 50
+witpenmattie: folds
+fmarc0n: folds
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: calls 25
+pm9698: raises 90 to 140
+HURONLOVE: raises 1852 to 1992 and is all-in
+BecksBeer123: folds
+pm9698: calls 1852
+*** FLOP *** [Ad 9d 4s]
+*** TURN *** [Ad 9d 4s] [6d]
+*** RIVER *** [Ad 9d 4s 6d] [5d]
+*** SHOW DOWN ***
+pm9698: shows [Ks Kd] (a flush, Ace high)
+HURONLOVE: shows [Qh 5c] (a pair of Fives)
+pm9698 collected 4034 from pot
+HURONLOVE finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 4034 | Rake 0
+Board [Ad 9d 4s 6d 5d]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 2: HURONLOVE showed [Qh 5c] and lost with a pair of Fives
+Seat 3: witpenmattie folded before Flop (didn't bet)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim (button) folded before Flop (didn't bet)
+Seat 8: BecksBeer123 (small blind) folded before Flop
+Seat 9: pm9698 (big blind) showed [Ks Kd] and won (4034) with a flush, Ace high
+
+
+
+PokerStars Hand #179189855946: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2017/12/06 20:14:23 CET [2017/12/06 14:14:23 ET]
+Table '2120185419 1' 9-max Seat #8 is the button
+Seat 1: To Robano (1435 in chips)
+Seat 3: witpenmattie (1299 in chips)
+Seat 4: fmarc0n (538 in chips)
+Seat 5: Sempre Nessa (1374 in chips)
+Seat 7: fatboydslim (1420 in chips)
+Seat 8: BecksBeer123 (1135 in chips)
+Seat 9: pm9698 (6299 in chips)
+pm9698: posts small blind 25
+To Robano: posts big blind 50
+*** HOLE CARDS ***
+Dealt to pm9698 [7d 6s]
+witpenmattie: folds
+fmarc0n: folds
+Sempre Nessa: folds
+pm9698 said, "thx"
+fatboydslim: folds
+BecksBeer123: calls 50
+pm9698: folds
+To Robano: raises 100 to 150
+BecksBeer123: calls 100
+*** FLOP *** [Kd 6d 8s]
+To Robano: checks
+BecksBeer123: checks
+*** TURN *** [Kd 6d 8s] [9h]
+To Robano: checks
+BecksBeer123: checks
+*** RIVER *** [Kd 6d 8s 9h] [2s]
+To Robano: checks
+BecksBeer123: checks
+*** SHOW DOWN ***
+To Robano: shows [Qd Qc] (a pair of Queens)
+BecksBeer123: mucks hand
+To Robano collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | Rake 0
+Board [Kd 6d 8s 9h 2s]
+Seat 1: To Robano (big blind) showed [Qd Qc] and won (325) with a pair of Queens
+Seat 3: witpenmattie folded before Flop (didn't bet)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 (button) mucked [Qs Ac]
+Seat 9: pm9698 (small blind) folded before Flop
+
+
+
+PokerStars Hand #179189887586: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:15:03 CET [2017/12/06 14:15:03 ET]
+Table '2120185419 1' 9-max Seat #9 is the button
+Seat 1: To Robano (1610 in chips)
+Seat 3: witpenmattie (1299 in chips)
+Seat 4: fmarc0n (538 in chips)
+Seat 5: Sempre Nessa (1374 in chips)
+Seat 7: fatboydslim (1420 in chips)
+Seat 8: BecksBeer123 (985 in chips)
+Seat 9: pm9698 (6274 in chips)
+To Robano: posts small blind 50
+witpenmattie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [8c 3s]
+fmarc0n: folds
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: folds
+To Robano: folds
+Uncalled bet (50) returned to witpenmattie
+witpenmattie collected 100 from pot
+witpenmattie: doesn't show hand
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: To Robano (small blind) folded before Flop
+Seat 3: witpenmattie (big blind) collected (100)
+Seat 4: fmarc0n folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179189902344: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:15:21 CET [2017/12/06 14:15:21 ET]
+Table '2120185419 1' 9-max Seat #1 is the button
+Seat 1: To Robano (1560 in chips)
+Seat 3: witpenmattie (1349 in chips)
+Seat 4: fmarc0n (538 in chips)
+Seat 5: Sempre Nessa (1374 in chips)
+Seat 7: fatboydslim (1420 in chips)
+Seat 8: BecksBeer123 (985 in chips)
+Seat 9: pm9698 (6274 in chips)
+witpenmattie: posts small blind 50
+fmarc0n: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [Ah 8s]
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: raises 100 to 200
+To Robano: folds
+witpenmattie: folds
+fmarc0n: calls 100
+*** FLOP *** [Ts Ac 9h]
+fmarc0n: checks
+pm9698: bets 450
+fmarc0n: folds
+Uncalled bet (450) returned to pm9698
+pm9698 collected 450 from pot
+pm9698: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Ts Ac 9h]
+Seat 1: To Robano (button) folded before Flop (didn't bet)
+Seat 3: witpenmattie (small blind) folded before Flop
+Seat 4: fmarc0n (big blind) folded on the Flop
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 collected (450)
+
+
+
+PokerStars Hand #179189936869: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:16:05 CET [2017/12/06 14:16:05 ET]
+Table '2120185419 1' 9-max Seat #3 is the button
+Seat 1: To Robano (1560 in chips)
+Seat 3: witpenmattie (1299 in chips)
+Seat 4: fmarc0n (338 in chips)
+Seat 5: Sempre Nessa (1374 in chips)
+Seat 7: fatboydslim (1420 in chips)
+Seat 8: BecksBeer123 (985 in chips)
+Seat 9: pm9698 (6524 in chips)
+fmarc0n: posts small blind 50
+Sempre Nessa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [Tc Ad]
+fatboydslim: folds
+BecksBeer123: calls 100
+pm9698: calls 100
+To Robano: folds
+witpenmattie: calls 100
+fmarc0n: raises 238 to 338 and is all-in
+Sempre Nessa: folds
+BecksBeer123: calls 238
+pm9698: folds
+witpenmattie: calls 238
+*** FLOP *** [3d 2h 4h]
+BecksBeer123: checks
+witpenmattie: checks
+*** TURN *** [3d 2h 4h] [3h]
+BecksBeer123: bets 647 and is all-in
+witpenmattie: folds
+Uncalled bet (647) returned to BecksBeer123
+*** RIVER *** [3d 2h 4h 3h] [9h]
+*** SHOW DOWN ***
+fmarc0n: shows [5c 3c] (three of a kind, Threes)
+BecksBeer123: shows [Qh Jh] (a flush, Queen high)
+BecksBeer123 collected 1214 from pot
+fmarc0n finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1214 | Rake 0
+Board [3d 2h 4h 3h 9h]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 3: witpenmattie (button) folded on the Turn
+Seat 4: fmarc0n (small blind) showed [5c 3c] and lost with three of a kind, Threes
+Seat 5: Sempre Nessa (big blind) folded before Flop
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 showed [Qh Jh] and won (1214) with a flush, Queen high
+Seat 9: pm9698 folded before Flop
+
+
+
+PokerStars Hand #179189978084: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:16:58 CET [2017/12/06 14:16:58 ET]
+Table '2120185419 1' 9-max Seat #5 is the button
+Seat 1: To Robano (1560 in chips)
+Seat 3: witpenmattie (961 in chips)
+Seat 5: Sempre Nessa (1274 in chips)
+Seat 7: fatboydslim (1420 in chips)
+Seat 8: BecksBeer123 (1861 in chips)
+Seat 9: pm9698 (6424 in chips)
+fatboydslim: posts small blind 50
+BecksBeer123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [3d Th]
+pm9698: folds
+To Robano: folds
+witpenmattie: calls 100
+Sempre Nessa: folds
+fatboydslim: calls 50
+BecksBeer123: checks
+*** FLOP *** [6c 8c 7h]
+fatboydslim: checks
+BecksBeer123: checks
+witpenmattie: bets 100
+fatboydslim: calls 100
+BecksBeer123: calls 100
+*** TURN *** [6c 8c 7h] [2d]
+fatboydslim: checks
+BecksBeer123: checks
+witpenmattie: bets 100
+fatboydslim: calls 100
+BecksBeer123: calls 100
+*** RIVER *** [6c 8c 7h 2d] [Kh]
+fatboydslim: checks
+BecksBeer123: checks
+witpenmattie: checks
+*** SHOW DOWN ***
+fatboydslim: shows [Td Qs] (high card King)
+BecksBeer123: shows [6d Jh] (a pair of Sixes)
+witpenmattie: mucks hand
+BecksBeer123 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0
+Board [6c 8c 7h 2d Kh]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 3: witpenmattie mucked [4c 4h]
+Seat 5: Sempre Nessa (button) folded before Flop (didn't bet)
+Seat 7: fatboydslim (small blind) showed [Td Qs] and lost with high card King
+Seat 8: BecksBeer123 (big blind) showed [6d Jh] and won (900) with a pair of Sixes
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179190010972: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:17:40 CET [2017/12/06 14:17:40 ET]
+Table '2120185419 1' 9-max Seat #7 is the button
+Seat 1: To Robano (1560 in chips)
+Seat 3: witpenmattie (661 in chips)
+Seat 5: Sempre Nessa (1274 in chips)
+Seat 7: fatboydslim (1120 in chips)
+Seat 8: BecksBeer123 (2461 in chips)
+Seat 9: pm9698 (6424 in chips)
+BecksBeer123: posts small blind 50
+pm9698: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [2c 5s]
+To Robano: folds
+witpenmattie: folds
+Sempre Nessa: folds
+fatboydslim: raises 100 to 200
+BecksBeer123: folds
+pm9698: folds
+Uncalled bet (100) returned to fatboydslim
+fatboydslim collected 250 from pot
+fatboydslim: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 3: witpenmattie folded before Flop (didn't bet)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim (button) collected (250)
+Seat 8: BecksBeer123 (small blind) folded before Flop
+Seat 9: pm9698 (big blind) folded before Flop
+
+
+
+PokerStars Hand #179190025997: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:17:59 CET [2017/12/06 14:17:59 ET]
+Table '2120185419 1' 9-max Seat #8 is the button
+Seat 1: To Robano (1560 in chips)
+Seat 3: witpenmattie (661 in chips)
+Seat 5: Sempre Nessa (1274 in chips)
+Seat 7: fatboydslim (1270 in chips)
+Seat 8: BecksBeer123 (2411 in chips)
+Seat 9: pm9698 (6324 in chips)
+pm9698: posts small blind 50
+To Robano: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [5d 9s]
+witpenmattie: folds
+Sempre Nessa: raises 125 to 225
+fatboydslim: calls 225
+BecksBeer123: folds
+pm9698: folds
+To Robano: folds
+*** FLOP *** [9c As 9h]
+Sempre Nessa: bets 180
+fatboydslim: folds
+Uncalled bet (180) returned to Sempre Nessa
+Sempre Nessa collected 600 from pot
+Sempre Nessa: doesn't show hand
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [9c As 9h]
+Seat 1: To Robano (big blind) folded before Flop
+Seat 3: witpenmattie folded before Flop (didn't bet)
+Seat 5: Sempre Nessa collected (600)
+Seat 7: fatboydslim folded on the Flop
+Seat 8: BecksBeer123 (button) folded before Flop (didn't bet)
+Seat 9: pm9698 (small blind) folded before Flop
+
+
+
+PokerStars Hand #179190048506: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:18:28 CET [2017/12/06 14:18:28 ET]
+Table '2120185419 1' 9-max Seat #9 is the button
+Seat 1: To Robano (1460 in chips)
+Seat 3: witpenmattie (661 in chips)
+Seat 5: Sempre Nessa (1649 in chips)
+Seat 7: fatboydslim (1045 in chips)
+Seat 8: BecksBeer123 (2411 in chips)
+Seat 9: pm9698 (6274 in chips)
+To Robano: posts small blind 50
+witpenmattie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [4c 9d]
+Sempre Nessa: folds
+fatboydslim: folds
+BecksBeer123: folds
+pm9698: folds
+To Robano: raises 1360 to 1460 and is all-in
+witpenmattie: calls 561 and is all-in
+Uncalled bet (799) returned to To Robano
+*** FLOP *** [Th Tc Ac]
+*** TURN *** [Th Tc Ac] [Qs]
+*** RIVER *** [Th Tc Ac Qs] [5d]
+*** SHOW DOWN ***
+To Robano: shows [7h As] (two pair, Aces and Tens)
+witpenmattie: shows [8s 6d] (a pair of Tens)
+To Robano collected 1322 from pot
+witpenmattie finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1322 | Rake 0
+Board [Th Tc Ac Qs 5d]
+Seat 1: To Robano (small blind) showed [7h As] and won (1322) with two pair, Aces and Tens
+Seat 3: witpenmattie (big blind) showed [8s 6d] and lost with a pair of Tens
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 7: fatboydslim folded before Flop (didn't bet)
+Seat 8: BecksBeer123 folded before Flop (didn't bet)
+Seat 9: pm9698 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179190063930: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:18:47 CET [2017/12/06 14:18:47 ET]
+Table '2120185419 1' 9-max Seat #1 is the button
+Seat 1: To Robano (2121 in chips)
+Seat 5: Sempre Nessa (1649 in chips)
+Seat 7: fatboydslim (1045 in chips)
+Seat 8: BecksBeer123 (2411 in chips)
+Seat 9: pm9698 (6274 in chips)
+Sempre Nessa: posts small blind 50
+fatboydslim: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [Js 6s]
+BecksBeer123: calls 100
+pm9698: folds
+To Robano: folds
+Sempre Nessa: folds
+fatboydslim: checks
+*** FLOP *** [4s 9c 5d]
+fatboydslim: bets 200
+BecksBeer123: calls 200
+*** TURN *** [4s 9c 5d] [3s]
+fatboydslim: bets 100
+BecksBeer123: calls 100
+*** RIVER *** [4s 9c 5d 3s] [Jh]
+fatboydslim: bets 645 and is all-in
+BecksBeer123: calls 645
+*** SHOW DOWN ***
+fatboydslim: shows [2c 5c] (a pair of Fives)
+BecksBeer123: shows [Ks 9d] (a pair of Nines)
+BecksBeer123 collected 2140 from pot
+fatboydslim finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 2140 | Rake 0
+Board [4s 9c 5d 3s Jh]
+Seat 1: To Robano (button) folded before Flop (didn't bet)
+Seat 5: Sempre Nessa (small blind) folded before Flop
+Seat 7: fatboydslim (big blind) showed [2c 5c] and lost with a pair of Fives
+Seat 8: BecksBeer123 showed [Ks 9d] and won (2140) with a pair of Nines
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179190088344: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:19:18 CET [2017/12/06 14:19:18 ET]
+Table '2120185419 1' 9-max Seat #5 is the button
+Seat 1: To Robano (2121 in chips)
+Seat 5: Sempre Nessa (1599 in chips)
+Seat 8: BecksBeer123 (3506 in chips)
+Seat 9: pm9698 (6274 in chips)
+BecksBeer123: posts small blind 50
+pm9698: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [Ah Ad]
+To Robano: folds
+Sempre Nessa: folds
+BecksBeer123: calls 50
+pm9698: raises 100 to 200
+BecksBeer123: folds
+Uncalled bet (100) returned to pm9698
+pm9698 collected 200 from pot
+pm9698: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 5: Sempre Nessa (button) folded before Flop (didn't bet)
+Seat 8: BecksBeer123 (small blind) folded before Flop
+Seat 9: pm9698 (big blind) collected (200)
+
+
+
+PokerStars Hand #179190098899: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2017/12/06 20:19:32 CET [2017/12/06 14:19:32 ET]
+Table '2120185419 1' 9-max Seat #8 is the button
+Seat 1: To Robano (2121 in chips)
+Seat 5: Sempre Nessa (1599 in chips)
+Seat 8: BecksBeer123 (3406 in chips)
+Seat 9: pm9698 (6374 in chips)
+pm9698: posts small blind 50
+To Robano: posts big blind 100
+*** HOLE CARDS ***
+Dealt to pm9698 [2d Kd]
+Sempre Nessa has timed out
+Sempre Nessa: folds
+Sempre Nessa is sitting out
+BecksBeer123: folds
+Sempre Nessa has returned
+pm9698: raises 100 to 200
+To Robano: raises 1921 to 2121 and is all-in
+pm9698: folds
+Uncalled bet (1921) returned to To Robano
+To Robano collected 400 from pot
+To Robano: doesn't show hand
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Seat 1: To Robano (big blind) collected (400)
+Seat 5: Sempre Nessa folded before Flop (didn't bet)
+Seat 8: BecksBeer123 (button) folded before Flop (didn't bet)
+Seat 9: pm9698 (small blind) folded before Flop
+
+
+
+PokerStars Hand #179190145032: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:20:30 CET [2017/12/06 14:20:30 ET]
+Table '2120185419 1' 9-max Seat #9 is the button
+Seat 1: To Robano (2321 in chips)
+Seat 5: Sempre Nessa (1599 in chips)
+Seat 8: BecksBeer123 (3406 in chips)
+Seat 9: pm9698 (6174 in chips)
+To Robano: posts small blind 75
+Sempre Nessa: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [Jc Ks]
+BecksBeer123: raises 150 to 300
+pm9698: folds
+To Robano: folds
+Sempre Nessa: folds
+Uncalled bet (150) returned to BecksBeer123
+BecksBeer123 collected 375 from pot
+BecksBeer123: doesn't show hand
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: To Robano (small blind) folded before Flop
+Seat 5: Sempre Nessa (big blind) folded before Flop
+Seat 8: BecksBeer123 collected (375)
+Seat 9: pm9698 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179190161770: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:20:51 CET [2017/12/06 14:20:51 ET]
+Table '2120185419 1' 9-max Seat #1 is the button
+Seat 1: To Robano (2246 in chips)
+Seat 5: Sempre Nessa (1449 in chips)
+Seat 8: BecksBeer123 (3631 in chips)
+Seat 9: pm9698 (6174 in chips)
+Sempre Nessa: posts small blind 75
+BecksBeer123: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [9s 7h]
+pm9698: folds
+To Robano: raises 2096 to 2246 and is all-in
+Sempre Nessa: folds
+BecksBeer123: folds
+Uncalled bet (2096) returned to To Robano
+To Robano collected 375 from pot
+To Robano: doesn't show hand
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: To Robano (button) collected (375)
+Seat 5: Sempre Nessa (small blind) folded before Flop
+Seat 8: BecksBeer123 (big blind) folded before Flop
+Seat 9: pm9698 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179190176077: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:21:09 CET [2017/12/06 14:21:09 ET]
+Table '2120185419 1' 9-max Seat #5 is the button
+Seat 1: To Robano (2471 in chips)
+Seat 5: Sempre Nessa (1374 in chips)
+Seat 8: BecksBeer123 (3481 in chips)
+Seat 9: pm9698 (6174 in chips)
+BecksBeer123: posts small blind 75
+pm9698: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [Qh Js]
+To Robano: folds
+Sempre Nessa: raises 187 to 337
+BecksBeer123: calls 262
+pm9698: calls 187
+*** FLOP *** [Ts Kd Td]
+BecksBeer123: bets 450
+pm9698: calls 450
+Sempre Nessa: raises 587 to 1037 and is all-in
+BecksBeer123: calls 587
+pm9698: calls 587
+*** TURN *** [Ts Kd Td] [5c]
+BecksBeer123: checks
+pm9698: checks
+*** RIVER *** [Ts Kd Td 5c] [Th]
+BecksBeer123: bets 600
+pm9698: folds
+Uncalled bet (600) returned to BecksBeer123
+*** SHOW DOWN ***
+BecksBeer123: shows [3d 3s] (a full house, Tens full of Threes)
+Sempre Nessa: shows [Qd Ad] (three of a kind, Tens)
+BecksBeer123 collected 4122 from pot
+Sempre Nessa finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 4122 | Rake 0
+Board [Ts Kd Td 5c Th]
+Seat 1: To Robano folded before Flop (didn't bet)
+Seat 5: Sempre Nessa (button) showed [Qd Ad] and lost with three of a kind, Tens
+Seat 8: BecksBeer123 (small blind) showed [3d 3s] and won (4122) with a full house, Tens full of Threes
+Seat 9: pm9698 (big blind) folded on the River
+
+
+
+PokerStars Hand #179190213503: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:21:57 CET [2017/12/06 14:21:57 ET]
+Table '2120185419 1' 9-max Seat #8 is the button
+Seat 1: To Robano (2471 in chips)
+Seat 8: BecksBeer123 (6229 in chips)
+Seat 9: pm9698 (4800 in chips)
+pm9698: posts small blind 75
+To Robano: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [7h Ts]
+BecksBeer123: calls 150
+pm9698: folds
+To Robano: raises 2321 to 2471 and is all-in
+BecksBeer123: folds
+Uncalled bet (2321) returned to To Robano
+To Robano collected 375 from pot
+To Robano: doesn't show hand
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: To Robano (big blind) collected (375)
+Seat 8: BecksBeer123 (button) folded before Flop
+Seat 9: pm9698 (small blind) folded before Flop
+
+
+
+PokerStars Hand #179190225966: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:22:12 CET [2017/12/06 14:22:12 ET]
+Table '2120185419 1' 9-max Seat #9 is the button
+Seat 1: To Robano (2696 in chips)
+Seat 8: BecksBeer123 (6079 in chips)
+Seat 9: pm9698 (4725 in chips)
+To Robano: posts small blind 75
+BecksBeer123: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [7d 9s]
+pm9698: folds
+To Robano: folds
+Uncalled bet (75) returned to BecksBeer123
+BecksBeer123 collected 150 from pot
+BecksBeer123: doesn't show hand
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Seat 1: To Robano (small blind) folded before Flop
+Seat 8: BecksBeer123 (big blind) collected (150)
+Seat 9: pm9698 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #179190231691: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:22:20 CET [2017/12/06 14:22:20 ET]
+Table '2120185419 1' 9-max Seat #1 is the button
+Seat 1: To Robano (2621 in chips)
+Seat 8: BecksBeer123 (6154 in chips)
+Seat 9: pm9698 (4725 in chips)
+BecksBeer123: posts small blind 75
+pm9698: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [7c Ac]
+To Robano: folds
+BecksBeer123: calls 75
+pm9698: checks
+*** FLOP *** [Qh 4d 4s]
+BecksBeer123: checks
+pm9698: bets 300
+BecksBeer123: folds
+Uncalled bet (300) returned to pm9698
+pm9698 collected 300 from pot
+pm9698: doesn't show hand
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Board [Qh 4d 4s]
+Seat 1: To Robano (button) folded before Flop (didn't bet)
+Seat 8: BecksBeer123 (small blind) folded on the Flop
+Seat 9: pm9698 (big blind) collected (300)
+
+
+
+PokerStars Hand #179190247036: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:22:39 CET [2017/12/06 14:22:39 ET]
+Table '2120185419 1' 9-max Seat #8 is the button
+Seat 1: To Robano (2621 in chips)
+Seat 8: BecksBeer123 (6004 in chips)
+Seat 9: pm9698 (4875 in chips)
+pm9698: posts small blind 75
+To Robano: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [9c Ad]
+BecksBeer123: folds
+pm9698: raises 150 to 300
+To Robano: raises 2321 to 2621 and is all-in
+pm9698: calls 2321
+*** FLOP *** [5d 6s 4d]
+*** TURN *** [5d 6s 4d] [3s]
+*** RIVER *** [5d 6s 4d 3s] [6c]
+*** SHOW DOWN ***
+pm9698: shows [9c Ad] (a pair of Sixes)
+To Robano: shows [9h Kc] (a pair of Sixes - lower kicker)
+pm9698 collected 5242 from pot
+To Robano finished the tournament in 3rd place and received $0.79.
+*** SUMMARY ***
+Total pot 5242 | Rake 0
+Board [5d 6s 4d 3s 6c]
+Seat 1: To Robano (big blind) showed [9h Kc] and lost with a pair of Sixes
+Seat 8: BecksBeer123 (button) folded before Flop (didn't bet)
+Seat 9: pm9698 (small blind) showed [9c Ad] and won (5242) with a pair of Sixes
+
+
+
+PokerStars Hand #179190265538: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:23:03 CET [2017/12/06 14:23:03 ET]
+Table '2120185419 1' 9-max Seat #9 is the button
+Seat 8: BecksBeer123 (6004 in chips)
+Seat 9: pm9698 (7496 in chips)
+pm9698: posts small blind 75
+BecksBeer123: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [5h Qd]
+pm9698: raises 150 to 300
+BecksBeer123: calls 150
+*** FLOP *** [8d 7d Jh]
+BecksBeer123: bets 450
+pm9698: folds
+Uncalled bet (450) returned to BecksBeer123
+BecksBeer123 collected 600 from pot
+BecksBeer123: doesn't show hand
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [8d 7d Jh]
+Seat 8: BecksBeer123 (big blind) collected (600)
+Seat 9: pm9698 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #179190277060: Tournament #2120185419, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2017/12/06 20:23:17 CET [2017/12/06 14:23:17 ET]
+Table '2120185419 1' 9-max Seat #8 is the button
+Seat 8: BecksBeer123 (6304 in chips)
+Seat 9: pm9698 (7196 in chips)
+BecksBeer123: posts small blind 75
+pm9698: posts big blind 150
+*** HOLE CARDS ***
+Dealt to pm9698 [6c 8c]
+BecksBeer123: raises 150 to 300
+pm9698: calls 150
+*** FLOP *** [Tc 9d 6s]
+pm9698: checks
+BecksBeer123: bets 300
+pm9698: calls 300
+*** TURN *** [Tc 9d 6s] [7h]
+pm9698: checks
+BecksBeer123: bets 300
+pm9698: raises 300 to 600
+BecksBeer123: calls 300
+*** RIVER *** [Tc 9d 6s 7h] [As]
+pm9698: checks
+BecksBeer123: bets 600
+pm9698: raises 5396 to 5996 and is all-in
+BecksBeer123: calls 4504 and is all-in
+Uncalled bet (892) returned to pm9698
+*** SHOW DOWN ***
+pm9698: shows [6c 8c] (a straight, Six to Ten)
+BecksBeer123: shows [4h Ad] (a pair of Aces)
+pm9698 collected 12608 from pot
+BecksBeer123 finished the tournament in 2nd place and received $1.18.
+pm9698 wins the tournament and receives $1.99 - congratulations!
+*** SUMMARY ***
+Total pot 12608 | Rake 0
+Board [Tc 9d 6s 7h As]
+Seat 8: BecksBeer123 (button) (small blind) showed [4h Ad] and lost with a pair of Aces
+Seat 9: pm9698 (big blind) showed [6c 8c] and won (12608) with a straight, Six to Ten
+
+
+

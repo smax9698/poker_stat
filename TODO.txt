@@ -1,0 +1,10 @@
+1) Determiner les données à stocker : tables + entrées
+
+player_name (string), hands received, folded before Flop, folded on the Flop, folded on the Turn, folded on the river, play all the hand
+
+2) Enregistrer le chemin vers les fichiers à analyser (par défaut "./to_analyze_files")
+
+3) Analyse des fichiers non analyser et mise à jour de la DB
+
+
+
